@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+PyPDF2
+google-genai
+pandas
+beautifulsoup4
+requests
+python-dotenv
